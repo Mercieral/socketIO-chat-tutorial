@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{socketIO-chat-tutorial/node_modules}" />
     <file url="file://$PROJECT_DIR$/index.js" libraries="{ECMAScript 6, WebGL}" />
+    <file url="PROJECT" libraries="{socketIO-chat-tutorial/node_modules}" />
     <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>
